@@ -29,6 +29,8 @@
 
 ## Get started
 
+First, you have to install nodejs with minimum version = 10, before start developing this project.
+
 Install Gatsby CLI:
 
 ```sh
